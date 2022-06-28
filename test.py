@@ -17,6 +17,6 @@ selenium.common.ElementNotInteractableException
 selenium.common.ElementNotInteractableException
 selenium.common.ElementNotInteractableException
 
-temp=43
+temp=4
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
